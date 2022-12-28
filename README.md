@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F78D&background=FFFFFF00&vCenter=true&width=435&lines=Front+End+Developer%2C+-%3E+ReactJS;5%2B+years+of+experience;Striving+for+Full-Stack;Continuously+learning+new+things)](https://git.io/typing-svg)
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=10000&color=00F78D&background=FFFFFF00&vCenter=true&width=435&lines=GitHub+stats)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuraJuki&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00DD84&ring=DD2727&fire=DD7D00&currStreakNum=DD7D00&sideNums=DD7D00&currStreakLabel=00DD84&sideLabels=00DD84&dates=00BE72AF)](https://git.io/streak-stats)
+
 <!--
 **JuraJuki/JuraJuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
