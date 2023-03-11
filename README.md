@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F78D&background=FFFFFF00&vCenter=true&width=435&lines=Front+End+Developer%2C+-%3E+ReactJS;5%2B+years+of+experience;Striving+for+Full-Stack;Continuously+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F78D&background=FFFFFF00&vCenter=true&width=435&lines=Front+End+Developer%2C+-%3E+ReactJS;5%2B+years+of+experience;Continuously+learning+new+things)](https://git.io/typing-svg)
 
 
 
