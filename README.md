@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=10000&color=00F78D&background=FFFFFF00&vCenter=true&width=435&lines=•+Bad+ReactJs+practices+to+avoid)](https://dev.to/bornfightcompany/bad-reactjs-practices-to-avoid-a1b)<br/>
 
 <br/>
-<a href="https://app.daily.dev/JuraJuki" align="center"><img src="https://api.daily.dev/devcards/e0387c74fded4c0a8ff4836037caeb32.png?r=d11" width="300" alt="Juraj Pavlović's Dev Card"/></a>
+<a href="https://app.daily.dev/JuraJuki" align="center"><img src="https://api.daily.dev/devcards/e0387c74fded4c0a8ff4836037caeb32.png?r=d11" width="400" alt="Juraj Pavlović's Dev Card"/></a>
 
 
 
