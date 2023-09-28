@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=10000&color=00F78D&background=FFFFFF00&vCenter=true&width=435&lines=GitHub+stats)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuraJuki&theme=dark&hide_border=true&background=DD272700&date_format=j%20M%5B%20Y%5D&stroke=00DD84&ring=DD2727&fire=DD7D00&currStreakNum=DD7D00&sideNums=DD7D00&currStreakLabel=00DD84&sideLabels=00DD84&dates=00BE72AF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JuraJuki&theme=dark&hide_border=true&background=DD272700&date_format=j%20M%5B%20Y%5D&stroke=00DD84&ring=DD2727&fire=DD7D00&currStreakNum=DD7D00&sideNums=DD7D00&currStreakLabel=00DD84&sideLabels=00DD84&dates=00BE72AF)](https://git.io/streak-stats)
 
 [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="50" height="34"></img>](https://dev.to/jurajuki)
 
